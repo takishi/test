@@ -1,3 +1,4 @@
+//scripted by boss :D //
 #!/bin/sh
 
 # 2011 (C) Artyom Nosov <chip-set@mail.ru>
