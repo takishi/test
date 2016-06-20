@@ -1,0 +1,6 @@
+$ svn co https://svn.apache.org/repos/asf/excalibur/trunk/ excalibur-trunk
+$ cd excalibur-trunk
+$ echo "test" > test.txt
+$ svn add test.txt
+$ svn commit --username your-name --password your-password \
+  --message "Trying out svn"
