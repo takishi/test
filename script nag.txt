@@ -1,5 +1,6 @@
 //scripted by boss :D //
 #!/bin/sh
+test update #2
 
 # 2011 (C) Artyom Nosov <chip-set@mail.ru>
 #
