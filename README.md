@@ -1,4 +1,4 @@
-Copyright Assassin 2020(C)
+Copyright 2016 (C)
 -
-This script is a open source GNU
+This script is a open source 'GNU'
 Enjoy :D 
